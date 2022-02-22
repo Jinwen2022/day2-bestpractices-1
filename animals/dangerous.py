@@ -1,2 +1,0 @@
-From .birds import Birds
-
